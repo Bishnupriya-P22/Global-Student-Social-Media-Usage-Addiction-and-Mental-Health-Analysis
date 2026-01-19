@@ -29,6 +29,7 @@ Clean and user-friendly layout for quick and meaningful insights
 ## Dashboard
 
 ![Global-Student-Social-Media-Usage-Addiction-and-Mental-Health-Analysis](Dashboard1.png)
+
 ![Global-Student-Social-Media-Usage-Addiction-and-Mental-Health-Analysis](Dashboard2.png)
 
 
