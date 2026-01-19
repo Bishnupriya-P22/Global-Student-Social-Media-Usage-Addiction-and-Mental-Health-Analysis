@@ -37,6 +37,6 @@ Clean and user-friendly layout for quick and meaningful insights
 **Bishnupriya Pattnaik**  
 Aspiring **Data Analyst** | Skilled in **Python, SQL, Power BI, Excel, and Data Visualization**  
 
- Connect with me on [LinkedIn](www.linkedin.com/in/bishnupriya-pattnaik-6821a827b)  
+ Connect with me on [LinkedIn](www.linkedin.com/in/bishnupriya-pattnaik)  
 
 📊 Always exploring **data insights** and building meaningful **dashboards**.
