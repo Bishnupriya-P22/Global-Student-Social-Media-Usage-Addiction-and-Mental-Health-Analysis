@@ -1,24 +1,24 @@
 # Global-Student-Social-Media-Usage-Addiction-and-Mental-Health-Analysis
-🔹 Project Overview
+## Project Overview
 
 This project focuses on analyzing global student social media usage data to understand its impact on addiction levels, mental health, academic performance, sleep patterns, and conflicts.
 The interactive dashboards provide clear insights to support data-driven awareness, digital well-being analysis, and academic research.
 
-🔹 Tools & Technologies Used
+## Tools & Technologies Used
 
 Power BI – Data modeling and interactive dashboard creation
 Microsoft Excel / CSV – Data preprocessing and storage
 DAX – KPI and calculated measure creation
 Power BI Visuals – Charts, maps, KPI cards, and slicers
 
-🔹 Data Preparation
+## Data Preparation
 
 Removed duplicate and missing records
 Standardized categorical values (Gender, Platform, Academic Level)
 Ensured numerical consistency for usage hours and scores
 Created calculated KPIs such as average addiction score, mental health score, daily usage hours, sleep hours, and academic impact metrics
 
-🔹 Dashboard Features
+## Dashboard Features
 
 KPI cards for addiction score, mental health score, usage hours, sleep hours, and age
 Interactive slicers for academic level, gender, country, platform, and academic impact
