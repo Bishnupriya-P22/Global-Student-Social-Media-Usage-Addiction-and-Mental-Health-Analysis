@@ -18,7 +18,7 @@ Standardized categorical values (Gender, Platform, Academic Level)
 Ensured numerical consistency for usage hours and scores
 Created calculated KPIs such as average addiction score, mental health score, daily usage hours, sleep hours, and academic impact metrics
 
-## Dashboard Features
+## 📊 Dashboard Features
 
 KPI cards for addiction score, mental health score, usage hours, sleep hours, and age
 Interactive slicers for academic level, gender, country, platform, and academic impact
